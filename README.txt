@@ -1,0 +1,1 @@
+Inbox polling SMS forwarder project with ContentResolver and email support.
