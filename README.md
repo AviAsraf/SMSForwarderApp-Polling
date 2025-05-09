@@ -9,7 +9,7 @@
 - 📬 **Reads new SMS messages** from your inbox using `ContentResolver`
 - 📤 **Forwards each message via email** using your Gmail and App Password
 - 🔐 **Secure & customizable** — user provides their own credentials
-- 🔁 **Polls every 30 seconds** (with a visible countdown)
+- 🔁 **Polls every 15 seconds** (with a visible countdown)
 - 💾 **Saves settings locally** (email/password stored securely via `SharedPreferences`)
 - 🔄 **Auto-start on boot** support
 - ✍️ UI includes editable fields and log output
